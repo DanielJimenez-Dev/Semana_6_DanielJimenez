@@ -1,3 +1,5 @@
+# SEMANA 6
+
 # Proyecto de Gestion en Java (POO)
 Este repositorio contiene dos ejercicios prácticos desarrollados en Java para aplicar conceptos fundamentales de la Programación Orientada a Objetos (POO), 
 incluyendo el uso de clases, colecciones (ArrayList) y enumeraciones (enum).
